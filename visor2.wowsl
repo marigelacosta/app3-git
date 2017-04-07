@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>10</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/boundary/</ImageTemplate>
+            <ImageTemplateName>Boundary</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>F:/ /DAM/Segundo Parcial/Aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#cc6055</TemplateColor>
+            <TemplateFont>Lora</TemplateFont>
+            <TemplateName>boundary</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Visual c# 2010.JPG</url>
+                <title>Visual c# 2010</title>
+                <filesize>2321852</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/c# contraportada.JPG</url>
+                <title>c# contraportada</title>
+                <filesize>2650411</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/asp.net 4.0.JPG</url>
+                <title>asp.net 4.0</title>
+                <filesize>2348647</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/asp.net contraportada.JPG</url>
+                <title>asp.net contraportada</title>
+                <filesize>2770408</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/comunicaciones y redes.JPG</url>
+                <title>comunicaciones y redes</title>
+                <filesize>2430481</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/comunicaciones contraportada.JPG</url>
+                <title>comunicaciones contraportada</title>
+                <filesize>2911604</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/estructuras de datos.JPG</url>
+                <title>estructuras de datos</title>
+                <filesize>2427058</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/estructuras contraportada.JPG</url>
+                <title>estructuras contraportada</title>
+                <filesize>2628148</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/fundamentos de redes.JPG</url>
+                <title>fundamentos de redes</title>
+                <filesize>2520622</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/fundamentos contraportada.JPG</url>
+                <title>fundamentos contraportada</title>
+                <filesize>2727223</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/java como programar.JPG</url>
+                <title>java como programar</title>
+                <filesize>2444409</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/java contraportada.JPG</url>
+                <title>java contraportada</title>
+                <filesize>2472758</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/mantenimiento y reparacion.JPG</url>
+                <title>mantenimiento y reparacion</title>
+                <filesize>2603169</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/mantenimiento contraportada.JPG</url>
+                <title>mantenimiento contraportada</title>
+                <filesize>2465887</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/programacion en java.JPG</url>
+                <title>programacion en java</title>
+                <filesize>2540741</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/programacion contraportada.JPG</url>
+                <title>programacion contraportada</title>
+                <filesize>2409954</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/redes de computadoras.JPG</url>
+                <title>redes de computadoras</title>
+                <filesize>2564054</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/redes contraportada.JPG</url>
+                <title>redes contraportada</title>
+                <filesize>2343807</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/sistemas operativos.JPG</url>
+                <title>sistemas operativos</title>
+                <filesize>2296062</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/sistemas contraportada.JPG</url>
+                <title>sistemas contraportada</title>
+                <filesize>2418802</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/sql server 2005.JPG</url>
+                <title>sql server 2005</title>
+                <filesize>2287834</filesize>
+            </Image>
+            <Image>
+                <url>F:/ /DAM/Segundo Parcial/Aplicaciones/app3/imagenes/sql contraportada.JPG</url>
+                <title>sql contraportada</title>
+                <filesize>2150628</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
